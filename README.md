@@ -1,6 +1,4 @@
----
-marp: true
----
+
 
 # Urban Functional Area Identification in Shanghai
 
